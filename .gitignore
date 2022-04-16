@@ -3,3 +3,7 @@
 
 # Ada Library Information
 *.ali
+
+# Environment
+venv/
+__pycache__/
